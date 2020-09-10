@@ -1,5 +1,9 @@
 # Crud Products
-CRUD para gerenciamento de produtos,com as opções de listar,remover,atualizar e cadastrar um novo produto,a api esta disponivel em 2 versões uma utilizando o banco SQL postgresql e outra utilizando um NoSql mongodb
+CRUD para gerenciamento de produtos,com as opções de listar,remover,atualizar e cadastrar um novo produto,a api esta disponivel em 2 versões uma utilizando o banco SQL postgresql e outra utilizando um NoSql mongodb, e como linguagem de back-end usei JavaScript/Nodejs e o framework express
+
+[Site do Nodejs](https://nodejs.org/en/)
+
+[Site do express](https://www.express.com/)
 
 ## Rotas da aplicação
 
