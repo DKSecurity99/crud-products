@@ -1,4 +1,4 @@
-# crud-products
+# Crud Products
 CRUD para gerenciamento de produtos,com as opções de listar,remover,atualizar e cadastrar um novo produto,a api esta disponivel em 2 versões uma utilizando o banco SQL postgresql e outra utilizando um NoSql mongodb
 
 ## Rotas da aplicação
